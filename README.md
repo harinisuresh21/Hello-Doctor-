@@ -64,8 +64,6 @@ Edit
 python manage.py runserver
 Now go to http://127.0.0.1:8000/ in your browser.
 
-📁 Project Structure
-csharp
 Copy
 Edit
 doctor_appointment/
@@ -78,3 +76,13 @@ doctor_appointment/
 │   ├── settings.py
 ├── db.sqlite3            # Database
 ├── manage.py
+
+📁 Project Structure
+csharp![Screenshot (171)](https://github.com/user-attachments/assets/4286242f-c644-47f0-8ab8-561564f6e9fe)
+![Screenshot (170)](https://github.com/user-attachments/assets/be297d2e-c76a-43d7-9c29-4acd8d63867f)
+![Screenshot (169)](https://github.com/user-attachments/assets/402120b1-aea8-4234-a654-8af8792a8d21)
+![Screenshot (168)](https://github.com/user-attachments/assets/1c38b73b-4b1a-4596-860d-4592d31f495d)
+![Screenshot (167)](https://github.com/user-attachments/assets/b6339ae2-d981-4823-9899-464ca43b9d98)
+
+
+
